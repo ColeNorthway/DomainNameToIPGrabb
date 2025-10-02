@@ -9,4 +9,4 @@ It then will parse all of these domains from the certificates associated with th
 After that all repeat domains are filtered and written to another file with the FileSanitize.java class.
 
 
-Then finally it will DNS query every domain in the last file and write them to a file with the corresponding domain witht the IPGrbb.java class.
+Then finally it will DNS query every domain in the last file and write the IPs to a file with the corresponding domain with the IPGrbb.java class.
